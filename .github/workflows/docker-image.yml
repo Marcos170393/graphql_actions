@@ -32,5 +32,5 @@ jobs:
         
     - name: Push Docker Image
       run: |
-        docker push mlarrosadev/docker-graphql:0.0.2 .
+        docker push mlarrosadev/docker-graphql:0.0.2
         
